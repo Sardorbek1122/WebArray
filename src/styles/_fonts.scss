@@ -1,6 +1,48 @@
 @font-face {
-  font-family: "Roboto";
-  src: url("../fonts/Roboto-Regular-webfont.woff") format("woff");
-  font-weight: normal;
+  font-family: "Motiva sans regular";
+  src: url("../fonts/MotivaSansRegular.woff.ttf") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Motiva sans thin";
+  src: url("../fonts/MotivaSansThin.ttf") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Motiva sans Light";
+  src: url("../fonts/MotivaSansLight.woff.ttf") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Motiva sans Medium";
+  src: url("../fonts/MotivaSansMedium.woff.ttf") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Motiva sans Bold";
+  src: url("../fonts/MotivaSansBold.woff.ttf") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Motiva sans Black";
+  src: url("../fonts/MotivaSansBlack.woff.ttf") format("woff");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Motiva sans ExtraBold";
+  src: url("../fonts/MotivaSansExtraBold.ttf") format("woff");
+  font-weight: 950;
   font-style: normal;
 }
