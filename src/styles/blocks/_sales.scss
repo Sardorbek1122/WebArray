@@ -1,0 +1,17 @@
+.sales {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+
+  &__wrapper {
+    display: flex;
+    justify-content: flex-end;
+    width: 1140px;
+  }
+
+  &__text {
+    margin-right: 75px;
+    font-family: "Motiva-sans-Medium", sans-serif;
+  }
+}

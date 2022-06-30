@@ -1,0 +1,16 @@
+.header {
+  &__wrapper {
+    width: 100%;
+  }
+
+  &__control {
+    background-image: linear-gradient(to right, #84499a , #c74494, #f49b92);
+    width: 100%;
+  }
+
+  &__sales {
+    width: 100%;
+    background-image: linear-gradient(to right, #824499 , #c63b91, #f69489);
+    color: $co-darkBlue;
+  }
+}
